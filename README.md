@@ -1,40 +1,36 @@
 # data-learning-lab
-> Laboratório de estudos em análise de dados: conceitos, guias práticos e projetos aplicados.
+> Study lab on data analysis: concepts, practical guides, and applied projects.
 
 
-Aqui você encontrará meus resumos, guias práticos, notebooks, experimentos e reflexões sobre os principais tópicos do universo de dados. Este laboratório segue como base o [roadmap de Data Analyst](https://roadmap.sh/data-analyst) e os projetos que desenvolvo para consolidar o conhecimento.
-
----
-
-## 🧭 Índice de Tópicos
-
-### 📌 01. Conceitos Básicos
-- [O que é análise de dados](01-conceitos-basicos/o-que-e-analise-de-dados.md)
-- [Conceitos chave sobre dados](01-conceitos-basicos/conceitos-chaves.md)
-
-### 🧾 02. Cheatsheets
-- [Pandas Sheetcode](02-sheetcodes/pandas-sheetcode.ipynb)
-- [Matplotlib Sheetcode](02-sheetcodes/matplotlib-sheetcode.ipynb)
-
-### 📥 03. Coleta de Dados
-- [Bases, arquivos, APIs e web scraping](03-coleta-de-dados/coleta-csv-api.md)
-
-### 🧹 04. Limpeza e Preparação
-- [Limpeza de dados](04-limpeza-e-preparacao/limpeza-de-dados.ipynb)
-
-### 📊 05. Análise e Estatística
-- [Técnicas de análise de dados](05-analise-e-estatistica/tecnicas-de-analise.md)
-- [Estatística descritiva](05-analise-e-estatistica/estatistica-descritiva.ipynb)
-
-### 📈 06. Visualização
-- [Visualização de dados com Python e BI](06-visualizacao/visualizacao-de-dados.ipynb)
-
-### 🤖 07. Pipeline RAG
-- [Explicação e arquitetura de uma RAG Pipeline](07-rag-pipeline/explicacao-rag.md)
+Here you will find my summaries, practical guides, notebooks, experiments, and reflections on key topics from the data universe. This lab is based on the [Data Analyst roadmap](https://roadmap.sh/data-analyst) and the projects I develop to consolidate my knowledge.
 
 ---
 
-## 🚧 Em construção
+## 🧭 Index
 
-Este repositório está em constante evolução conforme avanço nos estudos e projetos. Fique à vontade para explorar ou deixar sugestões!
+
+### 🧾 Cheatsheets
+- [Pandas Sheetcode](sheetcodes/pandas-sheetcode.ipynb)
+- [Matplotlib Sheetcode](sheetcodes/matplotlib-sheetcode.ipynb)
+
+### 📥 Data Collection
+- [Datasets, files, APIs, and web scraping](data-collection/data-collection.ipynb)
+- [Data cleaning](data-collection/data-cleaning.ipynb)
+
+### 📊 Statistics
+- [Data Analysis Techniques](statistics/data-analysis-techniques.ipynb)
+- [Descriptive statistics](statistics/descriptive-statistics.ipynb)
+
+### 📈 Data Visualization
+- [Data visualization with Python and BI tools](data-visualization/data-visualization.ipynb)
+
+### 🤖 Challenges
+- [Analise de dados baseada em desafios aleatórios](challanges)
+
+
+---
+
+## 🚧 Work in Progress
+
+This repository is constantly evolving as I progress through my studies and projects. Feel free to explore or leave suggestions!
 
