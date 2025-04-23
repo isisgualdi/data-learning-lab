@@ -1,0 +1,12 @@
+customer_id,name,age,city,country,last_purchase_date,total_spent,purchase_frequency,vip_member
+0,Isis Gualdi,22,Florianopolis,Brazil,2025-03-25,3870,9,Yes
+1,Emily Johnson,31,New York,USA,2025-04-10,1540.75,10,Yes
+2,Hiroshi Tanaka,45,Tokyo,Japan,2025-03-28,980.00,6,No
+3,Sofia García,29,Madrid,Spain,2025-04-15,2130.90,12,Yes
+4,Liam Smith,37,London,UK,2025-04-19,1125.60,9,No
+5,Isabelle Dubois,34,Paris,France,2025-04-11,1899.20,11,Yes
+6,Lucas Müller,40,Berlin,Germany,2025-04-16,1720.50,13,No
+7,Maria Rossi,26,Rome,Italy,2025-04-17,800.30,5,No
+8,Yara Silva,33,São Paulo,Brazil,2025-04-14,1345.00,7,Yes
+9,Chen Wei,38,Shanghai,China,2025-04-12,2070.10,14,Yes
+10,Amara Okoro,30,Lagos,Nigeria,2025-04-13,950.45,4,No
